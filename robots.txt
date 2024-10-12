@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://qaboqegamefo.pages.dev/sitemap.xml
